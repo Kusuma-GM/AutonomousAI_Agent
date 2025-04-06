@@ -81,12 +81,3 @@ You can now enter instructions like:
 
 ---
 
-## 📸 Screenshots
-
-<img src="screenshots/pdf_output.png" width="400"> <img src="screenshots/news_output.png" width="400">
-
----
-
-## 🧾 License
-
-This project is licensed under the MIT License.
